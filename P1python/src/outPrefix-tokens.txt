@@ -1,0 +1,324 @@
+First, First,
+here here
+are
+all all
+of
+the
+stopwords, stopwords,
+none none
+of
+which which
+should should
+make make
+it
+through through
+if if
+yesStop yesStop
+is
+selected. selected.
+a
+an
+and
+are
+as
+at
+be
+by
+for
+from
+has
+he
+in
+is
+it
+its
+of
+on
+that
+the
+to
+was
+were
+with
+Next Next
+here here
+are
+some some
+words word
+that
+are
+described describ
+in
+the
+stemming stem
+rules rule
+as
+having have
+particular particular
+values value
+after after
+stemming. stemming.
+If If
+you you
+use use
+porterStem porterStem
+in
+the
+command command
+line, line,
+you you
+can can
+see see
+if if
+you you
+get get
+the
+right right
+results result
+(see (see
+the
+description description
+of
+Porter). Porter).
+stresses stress
+gaps gap
+gas gas
+ties tie
+cries cri
+stress stress
+agreed agree
+feed feed
+fished fish
+pirating pirate
+falling fall
+dropping drop
+hoping hope
+ated ate
+owing owe
+oringly ore
+being be
+sheded shede
+shreded shrede
+raping rape
+trapper trapper
+hoping hope
+bided bide
+boxed box
+bowing bow
+bedsed beds
+cry cri
+by
+say say
+1Bonus 1Bonus
+2small 2small
+3test 3test
+4here. 4here.
+Lots Lot
+of
+spaces, spaces,
+but but
+the
+number-words number-word
+should should
+appear appear
+with
+nothing noth
+between between
+them. them.
+Finally, Finally,
+the
+rest rest
+of
+the
+text text
+is
+designed design
+to
+stress stress
+your your
+fancy fanci
+tokenizer. tokenizer.
+Early Earli
+examples example
+of
+abbreviation abbreviation
+in
+English English
+(Source: (Source:
+http://en.wikipedia.org/wiki/Acronym_and_initialism) http://en.wikipedia.org/wiki/Acronym_and_initialism)
+which which
+you you
+might might
+find find
+at
+IP IP
+address address
+198.35.26.96 198.35.26.96
+and/or and/or
+https://198.35.26.96 https://198.35.26.96
+and/or/perhaps and/or/perhap
+some-thing some-th
+abso-frigging-lutely abso-frigging-luteli
+amazing!! amazing!!
+1.0) 1.0)
+The The
+use use
+of
+Latin Latin
+and
+Neo-Latin Neo-Latin
+terms term
+in
+vernaculars vernacular
+has
+been been
+pan-European pan-European
+and
+predates predate
+modern modern
+English. English.
+Some Some
+examples example
+of
+initialisms initialism
+in
+this this
+class class
+are: are:
+a) a)
+A.M. A.M.
+(from (from
+Latin Latin
+ante ante
+meridiem, meridiem,
+"before "before
+noon") noon")
+and
+P.M. P.M.
+(from (from
+Latin Latin
+post post
+meridiem, meridiem,
+"after "after
+noon") noon")
+b) b)
+A.D. A.D.
+(from (from
+Latin Latin
+Anno Anno
+Domini, Domini,
+"in "in
+the
+year year
+of
+our our
+Lord") Lord")
+(whose (whose
+complement complement
+in
+English, English,
+B.C., B.C.,
+is
+English-sourced) English-sourced)
+c) c)
+A. A.
+D. D.
+should should
+remain remain
+two two
+words; words;
+prof's prof'
+addition addition
+4 4
+loads-of-fun. loads-of-fun.
+as
+in
+4-5 4-5
+or or
++3.1415+-0.002 +3.1415+-0.002
+and
+so so
+on
+2.0 2.0
+O.K., O.K.,
+a
+term term
+of
+disputed disput
+origin, origin,
+dating date
+back back
+at
+least least
+to
+the
+early earli
+19th 19th
+century, century,
+now now
+used use
+around around
+the
+world world
+3.1) 3.1)
+n.g., n.g.,
+for
+"no "no
+good," good,"
+from
+1838, 1838,
+nowadays nowaday
+commonly commonli
+expanded expand
+to
+"n.b.g." "n.b.g."
+(no (no
+bloody bloodi
+good) good)
+4) 4)
+The The
+etymology etymologi
+of
+the
+word word
+alphabet alphabet
+itself itself
+comes come
+to
+Middle Middle
+English English
+from
+the
+Late Late
+Latin Latin
+Alphabetum, Alphabetum,
+which which
+in
+turn turn
+derives derive
+from
+the
+Ancient Ancient
+Greek Greek
+Alphabetos, Alphabetos,
+from
+alpha alpha
+and
+beta, beta,
+the
+first first
+two two
+letters letter
+of
+the
+Greek Greek
+alphabet. alphabet.
+Colloquially, Colloquially,
+learning learn
+the
+alphabet alphabet
+is
+called call
+learning learn
+one's one'
+A.B.C.'s. A.B.C.'s.
